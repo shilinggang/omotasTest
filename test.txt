@@ -1,3 +1,7 @@
 ddddafa
 commit2
+<<<<<<< HEAD
 user2 modify
+=======
+user1modify
+>>>>>>> 55d76970dbd07768d69a13f984e275aa9b272085
